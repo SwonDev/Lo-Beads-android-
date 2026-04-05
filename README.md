@@ -16,4 +16,4 @@ Aplicación de colorear por números con temática de beads de pixel art.
 
 ## Contacto
 
-lobeads.app@gmail.com
+develoopersyt@gmail.com
